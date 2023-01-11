@@ -1,0 +1,3 @@
+# instLike
+This is the final project for Database Lab. It's a simple project like instagram
+Node modules are not added in this project so use npm install before running the project ...
